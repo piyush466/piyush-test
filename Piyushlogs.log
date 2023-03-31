@@ -1,0 +1,9 @@
+2023-03-31 10:49:29,652 : project_Logs.test_generate_logs : DEBUG : This is a debug
+2023-03-31 10:49:29,652 : project_Logs.test_generate_logs : INFO : This is Info
+2023-03-31 10:49:29,652 : project_Logs.test_generate_logs : ERROR : This is a error
+2023-03-31 10:49:29,652 : project_Logs.test_generate_logs : WARNING : this is a warning
+2023-03-31 10:49:29,652 : project_Logs.test_generate_logs : CRITICAL : This is a critical
+
+
+2023-03-31 10:53:46,874 : assets.project_Logs.test_demo : INFO : Chrome
+2023-03-31 10:53:46,874 : assets.project_Logs.test_demo : ERROR : new one
