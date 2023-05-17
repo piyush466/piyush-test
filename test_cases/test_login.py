@@ -21,4 +21,5 @@ class Test_001:
         self.genearte.info(f"your password is:-{self.password}")
         self.lp.clicksubmit()
         self.genearte.debug("**********Test End***********")
+        self.genearte.info("*******Test pass************")
 
